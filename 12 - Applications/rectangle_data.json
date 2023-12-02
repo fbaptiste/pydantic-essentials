@@ -1,0 +1,12 @@
+{
+    "rectangles": [
+        {
+            "upperLeft": {"x": 10, "y": 20},
+            "lowerRight": {"x": 100, "y": 50}
+        },
+        {
+            "upperLeft": {"x": 10.5, "y": 20.5},
+            "lowerRight": {"x": 100.5, "y": 50.5}
+        }
+    ]
+}

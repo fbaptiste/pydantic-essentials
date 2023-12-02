@@ -1,0 +1,5 @@
+fieldBool,fieldStr,fieldInt,fieldFloat
+True,"python",10,10.5
+True,"rocks!",20,120.5
+False,"python",10,10.5
+False,"rocks!",20,120.5
