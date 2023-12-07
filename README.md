@@ -1,6 +1,8 @@
 # Pydantic: Essentials
 
-A companion repo for my course **Pydantic: Essentials**.
+A companion repo for my course **Pydantic: Essentials** located here:
+[Pydantic V2: Essentials](https://www.udemy.com/course/pydantic/?referralCode=581AD0DC27E0E1EDB538)
+
 
 ## Additional Resources
 
