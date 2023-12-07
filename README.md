@@ -14,7 +14,7 @@ Provides additional Python content, including the following you might find usefu
 - Type hinting: [https://www.youtube.com/watch?v=iqhOyZUT1Es](https://www.youtube.com/watch?v=iqhOyZUT1Es)
 - Data Classes (Part 1): [https://www.youtube.com/watch?v=2P0i119GXNQ](https://www.youtube.com/watch?v=2P0i119GXNQ)
 - Data Classes (Part 2): [https://www.youtube.com/watch?v=e_jeuDDYuOE](https://www.youtube.com/watch?v=e_jeuDDYuOE)
-- Into to Pydantic V1: [https://www.youtube.com/watch?v=gb3arRysqMo](https://www.youtube.com/watch?v=gb3arRysqMo)
+- Intro to Pydantic V1: [https://www.youtube.com/watch?v=gb3arRysqMo](https://www.youtube.com/watch?v=gb3arRysqMo)
 
 and many more...
 
