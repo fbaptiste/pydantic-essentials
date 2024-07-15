@@ -1,7 +1,7 @@
-jupyterlab = "*"
-pydantic = "*"
-email-validator = "*"
-python-dateutil = "*"
-pytz = "*"
-requests = "*"
-datamodel-code-generator = "*"
+jupyterlab
+pydantic
+email-validator
+python-dateutil
+pytz
+requests
+datamodel-code-generator
